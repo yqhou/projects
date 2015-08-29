@@ -1,0 +1,252 @@
+[14-07-25 21:32:58.067][main.c    -L0045-main           -08104] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[14-07-25 21:33:58.850][main.c    -L0045-main           -03356] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[14-07-25 21:34:06.579][main.c    -L0045-main           -05872] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[14-07-25 21:34:07.389][main.c    -L0045-main           -07956] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[14-07-26 00:04:26.046][main.c    -L0045-main           -07664] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[14-08-28 22:50:37.100][main.c    -L0045-main           -08016] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+
+[15-07-24 14:10:54.126][main.c    -L0045-main           -02196] 
+{
+    "string1" : "string1_val",
+    "string2" : "string2_val",
+    "integer1" : 12345,
+    "sub-object" : {
+        "sub-string" : "sub-string-val"
+    },
+    "object1" : {
+        "sub-object" : {
+            "sub-string" : "sub-string-val"
+        },
+        "sub-object1" : {
+            "sub-sub-object1" : {
+                "sub-sub-string1" : "sub-sub-string1-val "
+            }
+        }
+    },
+    "string3" : "string3_val",
+    "string4" : "string4_val",
+    "array0" : [
+            {
+                "array-item" : "array-item0-val",
+                "array-item-int" : 1234
+            },
+            {
+                "array-item" : "array-item1-val",
+                "array-item-int" : 2234
+            },
+            {
+                "array-item" : "array-item2-val",
+                "array-item-int" : 3234
+            }
+    ]
+}
+

@@ -1,0 +1,55 @@
+{
+	string1: value1,
+	string2: value2,
+	number1: 123,
+	number2: 123.4,
+	bool1 : true,
+	boo2 : false,
+	string3: (null),
+	object1 :
+	{
+		object1-str1: object1-value1,
+		object1-str2: object1-value2
+	}
+	object2 :
+	{
+		object2-str2: object2-value1,
+		object2-str2: object2-value2
+	}
+	array1: 
+	[
+		{
+			e1: e1-val1,
+			e2: e2-val2,
+			e3: e3-val3
+		}
+		{
+			e1: e1-val1,
+			e2: e2-val2,
+			e3: e3-val3
+		}
+		{
+			e1: e1-val1,
+			e2: e2-val2,
+			e3: e3-val3
+		}
+	]
+	array2: 
+	[
+		{
+			a2-e1: a2-e1-val1,
+			a2-e2: a2-e2-val2,
+			a2-e3: a2-e3-val3
+		}
+		{
+			a2-e1: a2-e1-val1,
+			a2-e2: a2-e2-val2,
+			a2-e3: a2-e3-val3
+		}
+		{
+			a2-e1: a2-e1-val1,
+			a2-e2: a2-e2-val2,
+			a2-e3: a2-e3-val3
+		}
+	]
+}
